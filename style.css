@@ -34,13 +34,13 @@ display: flex;
 .wrapper__separate-line {
 	margin: 15px 15px 15px 0;
 	height: 1px;
-	width: 370px;
+	width: 485px;
 	background-color: #edeef0;
 }
 
 .wrapper__separate-half-line {
 	height: 1px;
-	width: 485px;
+	width: 430px;
 	background-color: #edeef0;
 	margin-left: 5px;
 }
