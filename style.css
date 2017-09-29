@@ -40,7 +40,7 @@ display: flex;
 
 .wrapper__separate-half-line {
 	height: 1px;
-	width: 278px;
+	width: 300px;
 	background-color: #edeef0;
 	margin-left: 5px;
 }
