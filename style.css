@@ -2,12 +2,10 @@ body {
 	background-color: #edeef0;
 }
 .wrapper {
-	
-  	
-  	
-  	width: 700px;
-  	
- 	display: flex;
+width: 700px;
+height:1000px;
+display: flex;
+
 
 }
 
