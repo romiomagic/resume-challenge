@@ -9,7 +9,7 @@ width: 700px;
 height:100%;
 margin:0 auto;
 display: flex;
-
+margin-bottom: 20px;
 
 }
 
@@ -47,6 +47,15 @@ display: flex;
 	font-weight: 400;
 }
 
+.caption-photo {
+	width: 130px;
+	margin: -10px 15px;
+	font-family: Tahoma;
+	font-weight: bold;
+    	font-size: 11pt;
+    	background: #DFE6ED;
+	text-align: center;
+}
 .social {
 	font-family: 'Lobster', cursive;
 }
