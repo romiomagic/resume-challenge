@@ -73,7 +73,7 @@ margin-bottom: 20px;
 
 .wrapper__separate-half-line {
 	height: 1px;
-	width: 430px;
+	width: 350px;
 	background-color: #edeef0;
 	margin-left: 5px;
 }
@@ -84,6 +84,9 @@ margin-bottom: 20px;
 	align-items: center;
 }
 
+.wrapper-section-name {
+	width: 100px;
+}
 .wrapper__edu-content {
 	display: flex;
 	align-items: baseline;
