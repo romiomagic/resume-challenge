@@ -63,6 +63,12 @@ margin-bottom: 20px;
 
 .wrapper__about a {
 	text-decoration: none;
+  	display: inline-block;
+  	padding: 5px 10px;
+  	margin:0 80px;
+  	letter-spacing: 1px;
+  	font-size: 14px;
+  	font-family: 'Fredoka One', cursive;
 }
 .wrapper__separate-line {
 	margin: 15px 15px 15px 0;
